@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,yEAAyE,CAEzE,EACI,gBACJ","file":"src.ebbcf660.css","sourceRoot":"..","sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');\n\n* {\n    font-family: Lato;\n}"]}
