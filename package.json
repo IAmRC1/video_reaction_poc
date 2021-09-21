@@ -3,12 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
-  "homepage": "http://iamrc1.github.io/video_reaction_poc",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
